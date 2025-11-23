@@ -105,6 +105,7 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
 
 ##ORIGINAL IMAGE 
+
 ![EJYMTeVW4AASo5J](https://github.com/user-attachments/assets/e82c5e15-ad32-4b27-be0a-343ed4e464ce)
 
 ##PROMPT ONE 
@@ -117,6 +118,7 @@ Thanjavur Brihadeeswarar Temple at sunset, preserved in its traditional Chola ar
 Thanjavur Big Temple redesigned with advanced blue high-tech elements — semi-transparent blue holographic cultural displays, animated light grids across the gopuram, floating blue AR symbols around the pillars, drone light orbs hovering in sky, blue energy beams accenting carvings, futuristic visitors, sharp ultra-real realism, HDR, dramatic lighting.
 
 ##OUTPUT 2
-![Uploading image.png…]()
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/84c58b24-d029-4a30-b7e5-1295fd44d381" />
 
 
